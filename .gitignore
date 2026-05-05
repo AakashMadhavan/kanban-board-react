@@ -1,0 +1,11 @@
+node_modules/
+dist/
+*.log
+.env
+.env.local
+.github/modernize/
+.vscode/
+.DS_Store
+.idea/
+*.swp
+*.swo
